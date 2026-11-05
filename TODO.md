@@ -1,0 +1,9 @@
+# AskOrbit outcomes
+
+- [x] **Dynamic AI answers:** Create a chatbot that can answer any question about anything; make it dynamic. Connect AskOrbit to an LLM so it can interpret broad natural-language questions, produce useful answers, and use preceding messages as conversational context.
+- [x] **Complete, accessible chat experience:** Provide a welcoming landing state with the AskOrbit identity, a concise introduction, and example prompts; a natural-language prompt composer with multiline input, send controls, and keyboard submission; a conversational message stream that clearly distinguishes user prompts from assistant responses; an ongoing in-session conversation with retained message context and automatic scrolling to the latest reply; and responsive, accessible interaction patterns for desktop and mobile.
+- [x] **Clear answers and interaction feedback:** Present readable responses with structured content such as headings, lists, links, and code blocks; show visible thinking, loading, error, and retry states so every interaction has clear feedback.
+- [x] **More memorable design:** Make the design more interesting and memorable while keeping the chat controls and answers easy to read and use on desktop and mobile.
+- [x] **Create PDF documents:** Let a user save any AskOrbit answer as a readable, paginated PDF directly from the conversation. Preserve headings, paragraphs, lists, block quotes, and code blocks; give the file a topic-based `.pdf` name and AskOrbit attribution; and show clear preparing, saved, or error feedback.
+- [x] **Faster initial load:** Reduce the above-the-fold hero illustration to a suitable resolution and prioritize its request so it can load alongside the app code, while retaining the existing design and verifying that the image still renders in Preview.
+- [x] **Delete previous chats:** Let people delete previous chats from the saved chat history.
